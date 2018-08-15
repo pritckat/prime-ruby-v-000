@@ -1,7 +1,6 @@
 # Add  code here!
 
 def prime?(maybe_prime)
-  numbers.each do |n|
     if maybe_prime < -1 || maybe_prime == 0 || maybe_prime == 1
       return false
     else
